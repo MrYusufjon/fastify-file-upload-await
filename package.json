@@ -1,0 +1,31 @@
+{
+    "name": "fastify-file-upload-await",
+    "version": "3.0.1",
+    "description": "file upload plugin for Fastify",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yusufjonnazarov/fastify-file-upload-await.git"
+    },
+    "keywords": [
+        "fastify",
+        "fileUpload",
+        "multipart",
+        "form"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "express-fileupload": "^1.1.6",
+        "fastify-plugin": "^2.0.0",
+        "middie": "^5.1.0",
+        "@types/node": "^16.11.0"
+    },
+    "devDependencies": {
+        "fastify": "^3.0.0",
+        "form-data": "^3.0.0",
+        "pump": "^3.0.0",
+        "tap": "^14.10.7"
+    }
+}
