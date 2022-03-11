@@ -1,6 +1,6 @@
 {
     "name": "fastify-file-upload-await",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "file upload plugin for Fastify",
     "main": "index.js",
     "scripts": {},
